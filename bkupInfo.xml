@@ -3,8 +3,8 @@
   <GPODomain><![CDATA[contoso.com]]></GPODomain>
   <GPODomainGuid><![CDATA[{970dc492-9663-4ce1-ba13-2ce7e1ef72d7}]]></GPODomainGuid>
   <GPODomainController><![CDATA[SASC-WS08-DC01.sasc.contoso.com]]></GPODomainController>
-  <BackupTime>2017-05-02T07:10:06</BackupTime>
-  <ID>{5ebda37e-af18-4ad0-bc7c-05420d1deff6}</ID>
+  <BackupTime>2017-05-02T07:10:55</BackupTime>
+  <ID>{ba82265f-6bfa-4926-9eb0-5ce0487b1e0c}</ID>
   <Comment>The Member Server baseline includes settings that are suitable for all servers running Windows Server 2012 R2 regardless of role. This forms the baseline on which you can layer role-specific settings. This baseline is suitable for midsize and large organizations with typical security needs that want to balance security and functionality.</Comment>
-  <GPODisplayName>Copy of WS2012R2 Member Server Security Compliance</GPODisplayName>
+  <GPODisplayName>Copy 2 of WS2012R2 Member Server Security Compliance</GPODisplayName>
 </BackupInst>
